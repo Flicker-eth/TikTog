@@ -17,7 +17,6 @@ TikTokClone
 
 </div>
 
-<hr />
 
 This application uses the most up-to-date tools for Mobile development:
 
