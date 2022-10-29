@@ -33,5 +33,4 @@ This application uses the most up-to-date tools for Mobile development:
 2. Open the folder using: `cd TikTok-Clone-React` <br />
 3. Run `yarn install` to install dependencies <br />
 4. Run `expo start` to open the App
-5. Run `yarn json-server server.json -H" 192.168.0.105 "-p 8000 -d 1000 -w` to open server.json as an API (Instead of the quotation marks use the Expo Lan IP of your machine, without quotes)
 
